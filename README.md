@@ -1,2 +1,3 @@
 # ac2v_genomics
-GFF and protein files for the Ac2VPB genome project
+Assembly, GFF and protein files for the Ac2VPB genome project
+Sequencing reads are uploaded to the ENA at project PRJEB39673
